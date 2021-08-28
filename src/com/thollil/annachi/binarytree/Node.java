@@ -25,19 +25,11 @@ public class Node
 				if(currentNode.leftNode!=null)
 				{
 					nodeQueue.offer(currentNode.leftNode);					
-				}
-				else
-				{
-					System.out.print("L#");
-				}
+				}				
 				if(currentNode.rightNode!=null)
 				{	
 					nodeQueue.offer(currentNode.rightNode);					
-				}
-				else
-				{
-					System.out.print("R#");
-				}
+				}				
 				System.out.print("   ");
 			}
 			System.out.println();
