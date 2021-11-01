@@ -1,0 +1,14 @@
+/Animal.class
+/IFly.class
+/ISwim.class
+/IWalk.class
+/CanWalk.class
+/CantWalk.class
+/FastWalk.class
+/CanSwim.class
+/CantSwim.class
+/FastSwim.class
+/CanFly.class
+/CantFly.class
+/FastFly.class
+/TestStrategy.class
